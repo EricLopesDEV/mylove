@@ -13,3 +13,14 @@ body {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+a:hover {
+  color: #ff00ea;
+  transition: color 0.3s ease-in-out;
+  text-shadow: #ff00ea9c 3px 3px 2px;
+  transition: text-shadow 0.3s ease-in;
+}
