@@ -1,0 +1,28 @@
+@media (max-width: 420px) {
+  .navbar-sup {
+    padding: 0;
+    margin: 0;
+    width: 420px;
+  }
+  .navbar-sup ul {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+  }
+
+  .content {
+    padding: 0;
+    width: 400px;
+  }
+  .video {
+    width: 400px;
+  }
+  .texto-fofo {
+    width: 400px;
+    height: auto;
+  }
+  header p {
+    width: 400px;
+  }
+}
